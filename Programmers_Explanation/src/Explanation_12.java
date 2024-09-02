@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 /**
- * Explanation_12
+ * 중복된 숫자 개수
  */
 public class Explanation_12 {
 
