@@ -36,7 +36,7 @@ public class Explanation_20 {
     // }
 
   // 제출 후 참고한 코드
-  public int[] solution(String s) {
+  public static int[] solution(String s) {
         int[] answer = new int[2];
         int temp;
         while( !s.equals("1") ) {
